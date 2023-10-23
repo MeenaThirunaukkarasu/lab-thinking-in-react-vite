@@ -37,6 +37,13 @@
   }
 }
 
+.tables, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  
+
+}
 .tables{
-  text-align: center;
+  width: 30%;
+  margin: auto;
 }
